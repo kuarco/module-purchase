@@ -1,0 +1,9 @@
+{
+    "name": "purchases",
+    "description": "Purchase Management System",
+    "version": "1.0.0",
+    "requires": ["2.3.0"],
+    "author": "Your Name",
+    "author_uri": "your_website",
+    "settings": "purchases/settings"
+}
